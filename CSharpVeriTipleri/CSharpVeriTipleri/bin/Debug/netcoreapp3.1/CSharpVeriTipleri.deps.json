@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpVeriTipleri/1.0.0": {
+        "runtime": {
+          "CSharpVeriTipleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpVeriTipleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
